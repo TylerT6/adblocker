@@ -1,0 +1,64 @@
+html {
+  height: 400pt;
+  width: 250pt;
+}
+
+body{
+  background-color: white;
+}
+
+h1{
+  font-size: 18pt;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+h2{
+  font-size: 11pt;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+h3{
+  font-size: 9pt;
+  font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+span{
+  font-size: 18pt;
+  font-family: 'Be Vietnam Pro', sans-serif;
+  font-weight: bolder;
+}
+
+.column-1 {
+  float: left;
+  width: 50%;
+  background-color: #c8c9e3;
+  text-align: center;
+  height: 60pt;
+  border-top-left-radius: 7pt;
+  border-bottom-left-radius: 7pt;
+}
+
+.column-2 {
+  float: left;
+  width: 50%;
+  background-color: #c8c9e3;
+  text-align: center;
+  height: 60pt;
+  border-top-right-radius: 7pt;
+  border-bottom-right-radius: 7pt;
+}
+
+#div-1{
+  margin-top: 10%;
+  margin-left: 21%;
+}
+
+#counter-title{
+  margin-left: 21%;
+}
+
+img{
+  position: relative;
+  left: 25%;
+  margin-top: 20%;
+}
